@@ -1,0 +1,15 @@
+{
+    "name": "kat/builderfactory2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ScottGalang",
+            "email": "galang.scottrylee@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
